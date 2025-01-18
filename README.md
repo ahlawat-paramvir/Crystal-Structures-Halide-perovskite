@@ -6,6 +6,3 @@
 
 ## Acknowledgement
 Swiss National Science Foundation through post-doc mobility Fellowship No. P500PN_206693
-
-## Contact
-Created by [@paramvir]() -- contact me
